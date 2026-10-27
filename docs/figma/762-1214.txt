@@ -1,0 +1,76 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/806e6a75-1017-4b73-9ee5-85bc54851563";
+const imgImage145 = `${assetPathPrefix}/a9036.png`;
+const imgImage146 = `${assetPathPrefix}/71099.png`;
+const imgImage147 = `${assetPathPrefix}/4e477.png`;
+const imgVector = `${assetPathPrefix}/323d8.svg`;
+const imgVector1 = `${assetPathPrefix}/86843.svg`;
+const imgRectangle25 = `${assetPathPrefix}/d976d.svg`;
+const imgVector2 = `${assetPathPrefix}/67a93.svg`;
+
+export default function Component54() {
+  return (
+    <div className="bg-[#3f3f3f] relative size-full" data-node-id="762:1214" data-name="54">
+      <div className="absolute contents left-[816.83px] top-[55px]" data-node-id="762:1215">
+        <div className="absolute flex h-[775.737px] items-center justify-center left-[816.83px] top-[55px] w-[640.168px]" data-node-id="762:1216">
+          <div className="flex-none rotate-90">
+            <div className="h-[640.168px] relative w-[775.737px]" data-name="Vector">
+              <div className="absolute inset-[-0.28%_-0.23%]">
+                <img alt="" className="block max-w-none size-full" src={imgVector} />
+              </div>
+            </div>
+          </div>
+        </div>
+        <p className="[word-break:break-word] absolute font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[924.36px] not-italic text-[20.559px] text-[rgba(243,243,243,0.3)] top-[571.35px] tracking-[-0.2262px] whitespace-nowrap" data-node-id="762:1217">
+          20.31
+        </p>
+        <p className="[word-break:break-word] absolute font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[1333.83px] not-italic text-[20.559px] text-[rgba(243,243,243,0.3)] top-[255.53px] tracking-[-0.2262px] whitespace-nowrap" data-node-id="762:1218">
+          3.40
+        </p>
+        <p className="[word-break:break-word] absolute font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[1213.81px] not-italic text-[20.559px] text-[rgba(243,243,243,0.3)] top-[171.88px] tracking-[-0.2262px] whitespace-nowrap" data-node-id="762:1219">
+          2.81
+        </p>
+        <p className="[word-break:break-word] absolute font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[924.36px] not-italic text-[20.559px] text-[rgba(243,243,243,0.3)] top-[255.53px] tracking-[-0.2262px] whitespace-nowrap" data-node-id="762:1220">
+          5.46
+        </p>
+        <p className="[word-break:break-word] absolute font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[924.36px] not-italic text-[20.559px] text-[rgba(243,243,243,0.3)] top-[773.75px] tracking-[-0.2262px] whitespace-nowrap" data-node-id="762:1221">
+          13.58
+        </p>
+      </div>
+      <div className="absolute flex h-[178.611px] items-center justify-center left-[914.45px] top-[99.88px] w-[222.512px]" data-node-id="762:1222">
+        <div className="flex-none rotate-90">
+          <div className="h-[222.512px] relative w-[178.611px]" data-name="Vector">
+            <div className="absolute inset-[-0.81%_-1.01%]">
+              <img alt="" className="block max-w-none size-full" src={imgVector1} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute border-[3.6px] border-[rgba(243,243,243,0.3)] border-solid h-[124.41px] left-[1225.96px] rounded-[6px] top-[644.12px] w-[143.496px]" data-node-id="762:1223" />
+      <div className="absolute h-[92.253px] left-[994.93px] top-[706.32px] w-[108.915px]" data-node-id="762:1224">
+        <div className="absolute inset-[-1.95%_-1.65%]">
+          <img alt="" className="block max-w-none size-full" src={imgRectangle25} />
+        </div>
+      </div>
+      <div className="absolute border-[3.6px] border-[rgba(243,243,243,0.3)] border-solid h-[49.496px] left-[1326.09px] rounded-[6px] top-[652.77px] w-[34.125px]" data-node-id="762:1225" />
+      <div className="absolute border-[3.6px] border-[rgba(243,243,243,0.3)] border-solid h-[49.496px] left-[1326.09px] rounded-[6px] top-[710.38px] w-[34.125px]" data-node-id="762:1226" />
+      <div className="absolute flex h-[403.37px] items-center justify-center left-[882.01px] top-[241.63px] w-[552.311px]" data-node-id="762:1228">
+        <div className="flex-none rotate-90">
+          <div className="h-[552.311px] relative w-[403.37px]" data-name="Vector">
+            <div className="absolute inset-[-0.33%_-0.26%_-0.23%_-0.36%]">
+              <img alt="" className="block max-w-none size-full" src={imgVector2} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute h-[258.088px] left-[230.25px] top-[31.53px] w-[271.56px]" data-node-id="762:1238" data-name="image 145">
+        <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgImage145} />
+      </div>
+      <div className="absolute h-[262.247px] left-[230.25px] top-[307.3px] w-[271.56px]" data-node-id="762:1241" data-name="image 146">
+        <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgImage146} />
+      </div>
+      <div className="absolute h-[262.246px] left-[230.25px] top-[587.22px] w-[271.56px]" data-node-id="762:1244" data-name="image 147">
+        <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgImage147} />
+      </div>
+    </div>
+  );
+}

@@ -1,0 +1,18 @@
+/* Figma 1512px canvas: title 151.023px; cards 434.743 × 424.713. */
+#history { padding: 0; min-height: 0; background: #3f3f3f; }
+.history__heading { padding: 5vw 3.637566vw 9vw; }
+/* AR ZOZH: ink bounds -25..725 / 1000 em for both rows.
+   .75em line boxes + 23px gap at 1512px yield a 23px visible ink gap. */
+#history-title { font-size: 9.988294vw; line-height: .75; text-align: center; display: flex; flex-direction: column; gap: 1.521164vw; }
+#history-title > span { display: block; white-space: nowrap; }
+.history__scene { position: relative; height: 100svh; overflow: hidden; }
+.history__scene[hidden] { display: none; }
+.history__texts { position: absolute; top: 5.88vw; left: 3.637566vw; width: 79.45873vw; }
+.history__text { position: absolute; inset: 0 auto auto 0; width: 100%; font-size: 1.984127vw; line-height: 1.04; letter-spacing: -.0218254vw; opacity: 0; visibility: hidden; }
+.history__text:first-child { opacity: 1; visibility: visible; }
+.history__text:nth-child(2) { width: 58.89471vw; }
+.history__text:nth-child(3) { width: 59.59094vw; }
+.history__viewport { position: absolute; top: 23.98545vw; left: 5.56283vw; right: 5.51634vw; overflow: hidden; }
+.history__track { display: flex; width: max-content; gap: 1.33115vw; }
+.history__photo { flex: 0 0 28.75284vw; width: 28.75284vw; height: 28.08948vw; margin: 0; position: relative; overflow: hidden; }
+.history__photo img { position: absolute; top: 0; width: 100%; height: 100%; max-width: none; object-fit: cover; }

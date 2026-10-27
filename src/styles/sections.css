@@ -1,0 +1,5 @@
+/* Техническая основа, не воспроизведение композиции Figma. */
+.section { min-height: 100svh; padding: 4vw; }
+.section--hero { display: grid; place-items: center; }
+h1 { font-size: clamp(2rem, 8vw, 10rem); text-align: center; line-height: 1; }
+h2 { font-size: clamp(2rem, 6vw, 8rem); line-height: 1.05; }

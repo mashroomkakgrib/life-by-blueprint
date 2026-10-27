@@ -1,0 +1,57 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/082c703d-02aa-4660-bf5c-acc25c1866c1";
+const imgImage104 = `${assetPathPrefix}/cb3d8.png`;
+const imgImage135 = `${assetPathPrefix}/19499.png`;
+const imgImage131 = `${assetPathPrefix}/52569.png`;
+const imgImage134 = `${assetPathPrefix}/6aeaa.png`;
+
+export default function Frame() {
+  return (
+    <div className="bg-[#3f3f3f] relative size-full" data-node-id="747:622" data-name="Frame">
+      <div className="absolute bottom-[1340px] contents left-0" data-node-id="747:623">
+        <div className="absolute bottom-[1480.17px] h-[2449.831px] left-0 w-[1512.702px]" data-node-id="747:624" data-name="image 104">
+          <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgImage104} />
+        </div>
+        <div className="absolute blur-[0px] bottom-[1340px] h-[2449.831px] left-0 w-[1512.702px]" data-node-id="747:625" data-name="image 105">
+          <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgImage104} />
+        </div>
+      </div>
+      <div className="absolute h-[2258.632px] left-0 top-[395.46px] w-[1512px]" data-node-id="747:626" style={{ backgroundImage: "linear-gradient(180.15397752496045deg, rgba(63, 63, 63, 0) 1.3931%, rgba(63, 63, 63, 0.45) 41.648%)" }} />
+      <div className="-translate-x-1/2 [word-break:break-word] absolute bottom-[3704.59px] font-['AR_ZOZH:Regular'] leading-[0] left-[756px] not-italic text-[#3f3f3f] text-[163.954px] text-center translate-y-full whitespace-nowrap" data-node-id="747:627">
+        <p className="leading-[0.935] mb-0">жизнь</p>
+        <p className="leading-[0.935]">по чертежу</p>
+      </div>
+      <div className="absolute bottom-[1275.91px] flex h-[332.297px] items-center justify-center left-0 w-[1512px]" data-node-id="747:628">
+        <div className="-scale-y-100 flex-none">
+          <div className="h-[332.297px] relative w-[1512px]" style={{ backgroundImage: "url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 1512 332.3' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='1'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(0.0000094079 -31.294 436.48 0.000020055 756 352.69)'><stop stop-color='rgba(63,63,63,0)' offset='0.1516'/><stop stop-color='rgba(63,63,63,1)' offset='0.86427'/></radialGradient></defs></svg>\")" }} />
+        </div>
+      </div>
+      <p className="-translate-x-1/2 [word-break:break-word] absolute bottom-[1252.35px] font-['AR_ZOZH:Regular'] leading-[66.77999877929688%] left-[756px] not-italic text-[#f3f3f3] text-[151.023px] text-center translate-y-full w-[1402px]" data-node-id="747:629">
+        но как это произошло?
+      </p>
+      <p className="[word-break:break-word] absolute bottom-[761.5px] font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[55px] not-italic text-[#f3f3f3] text-[30px] tracking-[-0.33px] translate-y-full w-[1201.416px]" data-node-id="747:630">
+        Хрущёвки настолько привычны для жителей российских городов, что мы перестали замечать их количество и воспринимать их как результат определённого исторического процесса. Массовое типовое строительство хрущёвок изменило облик советских городов и превратило отдельный архитектурный проект в масштабное городское явление.
+      </p>
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-1/2 not-italic text-[#3f3f3f] text-[30px] text-center top-[calc(50%-1297.5px)] tracking-[-0.33px] w-[870.257px]" data-node-id="747:638">
+        После второй половины 20 века по всему Советскому Союзу начали появляться тысячи одинаковых домов.
+      </p>
+      <p className="[word-break:break-word] absolute font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[calc(50%-150.5px)] not-italic text-[#3f3f3f] text-[30px] top-[calc(50%-700.9px)] tracking-[-0.33px] whitespace-nowrap" data-node-id="747:639">
+        Одинаковые фасады
+      </p>
+      <p className="[word-break:break-word] absolute font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[calc(50%-141.5px)] not-italic text-[#3f3f3f] text-[30px] top-[calc(50%-244.88px)] tracking-[-0.33px] whitespace-nowrap" data-node-id="747:640">
+        Одинаковые этажи
+      </p>
+      <p className="[word-break:break-word] absolute font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[calc(50%-168px)] not-italic text-[#3f3f3f] text-[30px] top-[calc(50%+34.69px)] tracking-[-0.33px] whitespace-nowrap" data-node-id="747:641">
+        Одинаковые подъезды
+      </p>
+      <div className="absolute h-[424.714px] left-[84.11px] top-[3386.53px] w-[434.743px]" data-node-id="755:695" data-name="image 135">
+        <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgImage135} />
+      </div>
+      <div className="absolute h-[424.714px] left-[993.85px] top-[3386.53px] w-[434.743px]" data-node-id="755:692" data-name="image 131">
+        <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgImage131} />
+      </div>
+      <div className="absolute h-[424.713px] left-[538.98px] top-[3386.53px] w-[434.743px]" data-node-id="755:694" data-name="image 134">
+        <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgImage134} />
+      </div>
+    </div>
+  );
+}

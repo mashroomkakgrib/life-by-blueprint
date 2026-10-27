@@ -1,0 +1,54 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/3c899533-287f-4f17-99b0-2e8fc3f545fb";
+const imgVector = `${assetPathPrefix}/5c3be.svg`;
+
+export default function Component35() {
+  return (
+    <div className="bg-[#3f3f3f] relative size-full" data-node-id="762:1010" data-name="35">
+      <div className="absolute contents left-[144.65px] top-[-246px]" data-node-id="762:1011">
+        <div className="absolute bg-[#9d9d9d] h-[219.096px] left-[144.65px] top-[-246px] w-[315.616px]" data-node-id="762:1012" />
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Disket_Mono:Regular'] leading-[1.5] left-[calc(50%-453.54px)] not-italic text-[#bebebe] text-[24.503px] text-center top-[-145.89px] tracking-[-0.2695px] whitespace-nowrap" data-node-id="762:1013">
+          картинка фасада
+        </p>
+      </div>
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Disket_Mono:Regular'] leading-[1.5] left-1/2 not-italic text-[#f3f3f3] text-[24.503px] text-center top-[-200px] tracking-[-0.2695px] w-[1051.5px]" data-node-id="762:1014">
+        После второй половины 20 века по всему Советскому Союзу начали появляться тысячи одинаковых домов.
+      </p>
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Disket_Mono:Regular'] leading-[1.5] left-1/2 not-italic text-[#f3f3f3] text-[24.503px] text-center top-[-127px] tracking-[-0.2695px] whitespace-nowrap" data-node-id="762:1015">
+        одинаковые фасады
+      </p>
+      <div className="absolute contents left-[1146.05px] top-[-218px]" data-node-id="762:1016">
+        <div className="absolute bg-[#9d9d9d] h-[219.096px] left-[1146.05px] top-[-218px] w-[315.616px]" data-node-id="762:1017" />
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Disket_Mono:Regular'] leading-[1.5] left-[calc(50%+547.85px)] not-italic text-[#bebebe] text-[24.503px] text-center top-[-126.95px] tracking-[-0.2695px] whitespace-nowrap" data-node-id="762:1018">
+          картинка фасада
+        </p>
+      </div>
+      <p className="[word-break:break-word] absolute bottom-[863.23px] font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[55px] not-italic text-[#f3f3f3] text-[30px] tracking-[-0.33px] translate-y-full w-[525.75px]" data-node-id="762:1019">
+        Её квартиры были компактными: небольшая кухня, жилые комнаты, санузел, коридор, иногда балкон. Каждый метр должен был выполнять определённую функцию.
+      </p>
+      <div className="absolute bottom-[87.49px] flex h-[775.737px] items-center justify-center left-[816.83px] w-[640.168px]" data-node-id="762:1020">
+        <div className="flex-none rotate-90">
+          <div className="h-[640.168px] relative w-[775.737px]" data-name="Vector">
+            <div className="absolute inset-[-0.28%_-0.23%]">
+              <img alt="" className="block max-w-none size-full" src={imgVector} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute bottom-[346.88px] font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[924.36px] not-italic text-[#f3f3f3] text-[20.559px] tracking-[-0.2262px] translate-y-full whitespace-nowrap" data-node-id="762:1021">
+        20.31
+      </p>
+      <p className="[word-break:break-word] absolute bottom-[662.7px] font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[1333.83px] not-italic text-[#f3f3f3] text-[20.559px] tracking-[-0.2262px] translate-y-full whitespace-nowrap" data-node-id="762:1022">
+        3.40
+      </p>
+      <p className="[word-break:break-word] absolute bottom-[746.34px] font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[1213.81px] not-italic text-[#f3f3f3] text-[20.559px] tracking-[-0.2262px] translate-y-full whitespace-nowrap" data-node-id="762:1023">
+        2.81
+      </p>
+      <p className="[word-break:break-word] absolute bottom-[662.7px] font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[924.36px] not-italic text-[#f3f3f3] text-[20.559px] tracking-[-0.2262px] translate-y-full whitespace-nowrap" data-node-id="762:1024">
+        5.46
+      </p>
+      <p className="[word-break:break-word] absolute bottom-[144.47px] font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[924.36px] not-italic text-[#f3f3f3] text-[20.559px] tracking-[-0.2262px] translate-y-full whitespace-nowrap" data-node-id="762:1025">
+        13.58
+      </p>
+    </div>
+  );
+}

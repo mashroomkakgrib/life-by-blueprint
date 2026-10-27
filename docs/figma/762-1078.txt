@@ -1,0 +1,68 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/116deec1-89d6-4aaa-bbd9-2b7bafacd5f3";
+const imgVector = `${assetPathPrefix}/323d8.svg`;
+const imgVector1 = `${assetPathPrefix}/86843.svg`;
+const imgVector2 = `${assetPathPrefix}/18f9d.svg`;
+const imgRectangle25 = `${assetPathPrefix}/8bf1b.svg`;
+
+export default function Component39() {
+  return (
+    <div className="bg-[#3f3f3f] relative size-full" data-node-id="762:1078" data-name="39">
+      <div className="absolute contents left-[816.83px] top-[55px]" data-node-id="762:1079">
+        <div className="absolute flex h-[775.737px] items-center justify-center left-[816.83px] top-[55px] w-[640.168px]" data-node-id="762:1080">
+          <div className="flex-none rotate-90">
+            <div className="h-[640.168px] relative w-[775.737px]" data-name="Vector">
+              <div className="absolute inset-[-0.28%_-0.23%]">
+                <img alt="" className="block max-w-none size-full" src={imgVector} />
+              </div>
+            </div>
+          </div>
+        </div>
+        <p className="[word-break:break-word] absolute font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[924.36px] not-italic text-[20.559px] text-[rgba(243,243,243,0.3)] top-[571.35px] tracking-[-0.2262px] whitespace-nowrap" data-node-id="762:1081">
+          20.31
+        </p>
+        <p className="[word-break:break-word] absolute font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[1333.83px] not-italic text-[20.559px] text-[rgba(243,243,243,0.3)] top-[255.53px] tracking-[-0.2262px] whitespace-nowrap" data-node-id="762:1082">
+          3.40
+        </p>
+        <p className="[word-break:break-word] absolute font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[1213.81px] not-italic text-[20.559px] text-[rgba(243,243,243,0.3)] top-[171.88px] tracking-[-0.2262px] whitespace-nowrap" data-node-id="762:1083">
+          2.81
+        </p>
+        <p className="[word-break:break-word] absolute font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[924.36px] not-italic text-[20.559px] text-[rgba(243,243,243,0.3)] top-[255.53px] tracking-[-0.2262px] whitespace-nowrap" data-node-id="762:1084">
+          5.46
+        </p>
+        <p className="[word-break:break-word] absolute font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[924.36px] not-italic text-[20.559px] text-[rgba(243,243,243,0.3)] top-[773.75px] tracking-[-0.2262px] whitespace-nowrap" data-node-id="762:1085">
+          13.58
+        </p>
+      </div>
+      <div className="absolute flex h-[178.611px] items-center justify-center left-[914.45px] top-[99.88px] w-[222.512px]" data-node-id="762:1086">
+        <div className="flex-none rotate-90">
+          <div className="h-[222.512px] relative w-[178.611px]" data-name="Vector">
+            <div className="absolute inset-[-0.81%_-1.01%]">
+              <img alt="" className="block max-w-none size-full" src={imgVector1} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute flex h-[203.539px] items-center justify-center left-[908.75px] top-[604.55px] w-[470.829px]" data-node-id="762:1087">
+        <div className="flex-none rotate-90">
+          <div className="h-[470.829px] relative w-[203.539px]" data-name="Vector">
+            <div className="absolute inset-[-0.38%_-0.88%]">
+              <img alt="" className="block max-w-none size-full" src={imgVector2} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute border-[#f3f3f3] border-[3.6px] border-solid h-[124.41px] left-[1225.96px] rounded-[6px] top-[644.12px] w-[143.496px]" data-node-id="762:1088" />
+      <div className="absolute h-[92.253px] left-[994.93px] top-[706.32px] w-[108.915px]" data-node-id="762:1089">
+        <div className="absolute inset-[-1.95%_-1.65%]">
+          <img alt="" className="block max-w-none size-full" src={imgRectangle25} />
+        </div>
+      </div>
+      <div className="absolute border-[#f3f3f3] border-[3.6px] border-solid h-[49.496px] left-[1326.09px] rounded-[6px] top-[652.77px] w-[34.125px]" data-node-id="762:1090" />
+      <div className="absolute border-[#f3f3f3] border-[3.6px] border-solid h-[49.496px] left-[1326.09px] rounded-[6px] top-[710.38px] w-[34.125px]" data-node-id="762:1091" />
+      <div className="[word-break:break-word] absolute font-['Menoe_Grotesque_Pro:Regular'] leading-[0] left-[55px] not-italic text-[#f3f3f3] text-[30px] top-[55px] tracking-[-0.33px] w-[525.75px]" data-node-id="762:1092">
+        <p className="leading-[1.04] mb-0">Но состав семьи может меняться. Спальня родителей может стать детской, детская — комнатой подростка. Одна комната начинает совмещать несколько жизней: здесь спят, работают, учатся, хранят вещи</p>
+        <p className="leading-[1.04]">и остаются наедине с собой.</p>
+      </div>
+    </div>
+  );
+}

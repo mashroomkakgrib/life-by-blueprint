@@ -1,0 +1,42 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/52aeafa1-80dc-4eb7-a685-965d4fd32b3c";
+const imgImage136 = `${assetPathPrefix}/b3f55.png`;
+const imgImage137 = `${assetPathPrefix}/054f5.png`;
+const imgImage138 = `${assetPathPrefix}/7fe4c.png`;
+const imgImage139 = `${assetPathPrefix}/b8cc1.png`;
+const imgImage140 = `${assetPathPrefix}/4c104.png`;
+const imgImage141 = `${assetPathPrefix}/81a00.png`;
+
+export default function Frame() {
+  return (
+    <div className="bg-[#3f3f3f] relative size-full" data-node-id="755:657" data-name="Frame">
+      <p className="[word-break:break-word] absolute bottom-[763.93px] font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[55px] not-italic text-[#f3f3f3] text-[30px] tracking-[-0.33px] translate-y-full w-[890.488px]" data-node-id="755:658">
+        После войны советские города быстро росли, а жилья не хватало. Многие семьи жили в коммунальных квартирах, общежитиях, бараках. Несколько семей могли делить одну квартиру, кухню и санузел.
+      </p>
+      <p className="[word-break:break-word] absolute bottom-[786.43px] font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[1457px] not-italic text-[#f3f3f3] text-[30px] tracking-[-0.33px] translate-y-full w-[901.015px]" data-node-id="755:678">
+        Так главной задачей государства стало обеспечить как можно больше семей отдельным жильём при ограниченных площади и времени, поэтому требовалось не просто строить больше домов,а делать это значительно быстрее и дешевле, и решением стало
+      </p>
+      <div className="absolute h-[424.713px] left-[82.88px] top-[362.66px] w-[434.743px]" data-node-id="755:698" data-name="image 136">
+        <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgImage136} />
+      </div>
+      <div className="absolute h-[424.713px] left-[538.63px] top-[362.66px] w-[434.743px]" data-node-id="755:701" data-name="image 137">
+        <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgImage137} />
+      </div>
+      <div className="absolute h-[424.713px] left-[994.37px] top-[362.66px] w-[434.743px]" data-node-id="755:704" data-name="image 138">
+        <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgImage138} />
+      </div>
+      <div className="absolute h-[424.713px] left-[1483.5px] top-[362.66px] w-[434.743px]" data-node-id="755:707" data-name="image 139">
+        <div className="absolute inset-0 overflow-hidden pointer-events-none">
+          <img alt="" className="absolute h-full left-[-20.26%] max-w-none top-0 w-[140.52%]" src={imgImage139} />
+        </div>
+      </div>
+      <div className="absolute h-[424.713px] left-[1945.12px] top-[362.66px] w-[434.743px]" data-node-id="755:710" data-name="image 140">
+        <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgImage140} />
+      </div>
+      <div className="absolute h-[424.713px] left-[2406.75px] top-[362.66px] w-[434.743px]" data-node-id="755:713" data-name="image 141">
+        <div className="absolute inset-0 overflow-hidden pointer-events-none">
+          <img alt="" className="absolute h-full left-[-7.21%] max-w-none top-0 w-[133.22%]" src={imgImage141} />
+        </div>
+      </div>
+    </div>
+  );
+}

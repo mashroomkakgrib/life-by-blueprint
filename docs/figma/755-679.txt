@@ -1,0 +1,37 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/7e9184ba-5f07-49d4-b6c1-cc0fb770954e";
+const imgImageNoBgHdCarvePhotos3 = `${assetPathPrefix}/25488.png`;
+const imgImageNoBgHdCarvePhotos4 = `${assetPathPrefix}/4186a.png`;
+const imgImage109 = `${assetPathPrefix}/af285.png`;
+const imgImage103 = `${assetPathPrefix}/ee512.png`;
+
+export default function Frame() {
+  return (
+    <div className="bg-[#3f3f3f] relative size-full" data-node-id="755:679" data-name="Frame">
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['AR_ZOZH:Regular'] leading-[0.935] left-1/2 not-italic text-[#f3f3f3] text-[125.02px] text-center top-[143.23px] w-[1402px]" data-node-id="755:680">
+        массовое строительство
+      </p>
+      <p className="[word-break:break-word] absolute font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-[calc(50%-260.08px)] not-italic text-[#f3f3f3] text-[30px] top-[788.72px] tracking-[-0.33px] w-[582.155px]" data-node-id="755:681">{`Типовые проекты, стандартные элементы, заводское производство деталей позволяли возводить целые районы из похожих домов. `}</p>
+      <div className="absolute h-[1238.29px] left-[-2453.76px] top-[362.23px] w-[2711.734px]" data-node-id="755:690" data-name="image-no-bg-HD (carve.photos) 3">
+        <div className="absolute inset-0 overflow-hidden pointer-events-none">
+          <img alt="" className="absolute h-[196.94%] left-[-1.67%] max-w-none top-0 w-[134.9%]" src={imgImageNoBgHdCarvePhotos3} />
+        </div>
+      </div>
+      <div className="absolute contents left-[1284.11px] top-[677.08px]" data-node-id="762:850">
+        <div className="absolute h-[923.444px] left-[1284.11px] top-[677.08px] w-[2022.254px]" data-node-id="762:851" data-name="image-no-bg-HD (carve.photos) 3">
+          <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgImageNoBgHdCarvePhotos4} />
+        </div>
+        <div className="absolute contents left-[1284.11px] top-[677.08px]" data-node-id="762:852" data-name="Mask group" />
+        <div className="absolute h-[81.893px] left-[1429.02px] top-[1000.35px] w-[69.908px]" data-node-id="762:854" data-name="image 109">
+          <div className="absolute inset-0 overflow-hidden pointer-events-none">
+            <img alt="" className="absolute h-[1899.36%] left-[-804.18%] max-w-none top-[-1248.08%] w-[1344.92%]" src={imgImage109} />
+          </div>
+        </div>
+        <div className="absolute h-[86.781px] left-[2029.54px] top-[997.91px] w-[67.506px]" data-node-id="762:855" data-name="image 103">
+          <div className="absolute inset-0 overflow-hidden pointer-events-none">
+            <img alt="" className="absolute h-[1847.57%] left-[-642.85%] max-w-none top-[-1063.87%] w-[1436.56%]" src={imgImage103} />
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}

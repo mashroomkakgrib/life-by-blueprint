@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'AR ZOZH';
+  src: url('/fonts/AR_ZOZH.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Menoe Grotesque Pro';
+  src: url('/fonts/Menoe-Grotesque-Pro.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+body { font-family: 'Menoe Grotesque Pro', sans-serif; font-synthesis: none; }
+h1, h2 { font-family: 'AR ZOZH', sans-serif; font-weight: 400; text-transform: uppercase; }

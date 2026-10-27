@@ -1,0 +1,14 @@
+{
+  "source": "public/images/section-01/image 104.png",
+  "sourceWidth": 1512,
+  "sourceHeight": 2450,
+  "status": "proposed; requires pixel alignment and visual QA",
+  "regions": [
+    {"id":"window-curtains","x":680,"y":990,"width":100,"height":122,"at":0.27,"duration":0.10},
+    {"id":"balcony-glazing","x":1100,"y":945,"width":310,"height":150,"at":0.35,"duration":0.12},
+    {"id":"window-open-sash","x":908,"y":1220,"width":110,"height":120,"at":0.48,"duration":0.10},
+    {"id":"balcony-household","x":250,"y":1390,"width":335,"height":180,"at":0.60,"duration":0.12},
+    {"id":"wall-weathering","x":795,"y":1660,"width":80,"height":120,"at":0.73,"duration":0.10},
+    {"id":"entrance-wear","x":650,"y":2100,"width":160,"height":220,"at":0.86,"duration":0.10}
+  ]
+}

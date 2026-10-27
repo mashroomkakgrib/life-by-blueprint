@@ -1,0 +1,96 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/bfe82834-84ce-407c-8452-0b693a20cd35";
+const imgImageNoBgHdCarvePhotos3 = `${assetPathPrefix}/25488.png`;
+const imgImage108 = `${assetPathPrefix}/af285.png`;
+const imgImage106 = `${assetPathPrefix}/45b43.png`;
+const imgImage120 = `${assetPathPrefix}/ee512.png`;
+const imgRectangle2 = `${assetPathPrefix}/6353e.png`;
+const imgImageNoBgHdCarvePhotos4 = `${assetPathPrefix}/4186a.png`;
+const imgImage110 = `${assetPathPrefix}/0a386.png`;
+const imgImage109 = `${assetPathPrefix}/ddfe3.png`;
+
+export default function Frame() {
+  return (
+    <div className="bg-[#3f3f3f] relative size-full" data-node-id="756:752" data-name="Frame">
+      <div className="absolute contents left-[144.65px] top-[-246px]" data-node-id="756:753">
+        <div className="absolute bg-[#9d9d9d] h-[219.096px] left-[144.65px] top-[-246px] w-[315.616px]" data-node-id="756:754" />
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Disket_Mono:Regular'] leading-[1.5] left-[calc(50%-453.54px)] not-italic text-[#bebebe] text-[24.503px] text-center top-[-145.89px] tracking-[-0.2695px] whitespace-nowrap" data-node-id="756:755">
+          картинка фасада
+        </p>
+      </div>
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Disket_Mono:Regular'] leading-[1.5] left-1/2 not-italic text-[#f3f3f3] text-[24.503px] text-center top-[-200px] tracking-[-0.2695px] w-[1051.5px]" data-node-id="756:756">
+        После второй половины 20 века по всему Советскому Союзу начали появляться тысячи одинаковых домов.
+      </p>
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Disket_Mono:Regular'] leading-[1.5] left-1/2 not-italic text-[#f3f3f3] text-[24.503px] text-center top-[-127px] tracking-[-0.2695px] whitespace-nowrap" data-node-id="756:757">
+        одинаковые фасады
+      </p>
+      <div className="[word-break:break-word] absolute font-['Menoe_Grotesque_Pro:Regular'] leading-[0] left-[calc(50%-265.16px)] not-italic text-[#f3f3f3] text-[30px] top-[223.39px] tracking-[-0.33px] w-[532.314px]" data-node-id="756:758">
+        <p className="leading-[1.04] mb-0">Выводился общий стандарт.</p>
+        <p className="leading-[1.04] mb-0">Один чертёж мог повторяться</p>
+        <p className="leading-[1.04] mb-0">в тысячах квартир, а вместе</p>
+        <p className="leading-[1.04]">с пространством проектировался и определённый образ жизни.</p>
+      </div>
+      <div className="absolute contents left-[-1667.83px] top-0" data-node-id="762:876">
+        <div className="absolute h-[999.68px] left-[-1667.83px] top-0 w-[2189.203px]" data-node-id="762:877" data-name="image-no-bg-HD (carve.photos) 3">
+          <div className="absolute inset-0 overflow-hidden pointer-events-none">
+            <img alt="" className="absolute h-[196.94%] left-[-1.67%] max-w-none top-0 w-[134.9%]" src={imgImageNoBgHdCarvePhotos3} />
+          </div>
+        </div>
+        <div className="absolute h-[132.264px] left-[-342.89px] top-[326.82px] w-[309.012px]" data-node-id="762:878" data-name="image 108">
+          <div className="absolute inset-0 overflow-hidden pointer-events-none">
+            <img alt="" className="absolute h-[1026.24%] left-[-67.39%] max-w-none top-[-468.79%] w-[424.15%]" src={imgImage108} />
+          </div>
+        </div>
+        <div className="absolute h-[128.344px] left-[-342.89px] top-[466.77px] w-[309.012px]" data-node-id="762:879" data-name="image 106">
+          <div className="absolute inset-0 overflow-hidden pointer-events-none">
+            <img alt="" className="absolute h-[971.44%] left-[-67.54%] max-w-none top-[-543.91%] w-[425.14%]" src={imgImage106} />
+          </div>
+        </div>
+        <div className="absolute h-[167.003px] left-[218.33px] top-[326.82px] w-[258.777px]" data-node-id="762:880" data-name="image 111">
+          <div className="absolute inset-0 overflow-hidden pointer-events-none">
+            <img alt="" className="absolute h-[981.88%] left-[-341.2%] max-w-none top-[-550.61%] w-[469.81%]" src={imgImage106} />
+          </div>
+        </div>
+        <div className="absolute h-[133.257px] left-[-342.89px] top-[602.25px] w-[309.012px]" data-node-id="762:881" data-name="image 110">
+          <div className="absolute inset-0 overflow-hidden pointer-events-none">
+            <img alt="" className="absolute h-[1036.26%] left-[-338.29%] max-w-none top-[-474.48%] w-[466.64%]" src={imgImage108} />
+          </div>
+        </div>
+        <div className="absolute h-[81.893px] left-[66.9px] top-[348.59px] w-[67.537px]" data-node-id="762:882" data-name="image 120">
+          <div className="absolute inset-0 overflow-hidden pointer-events-none">
+            <img alt="" className="absolute h-[1915.95%] left-[-625.09%] max-w-none top-[-904.9%] w-[1404.29%]" src={imgImage108} />
+          </div>
+        </div>
+        <div className="absolute h-[157.138px] left-[-342.89px] top-[738.88px] w-[309.012px]" data-node-id="762:883" data-name="image 120">
+          <div className="absolute inset-0 overflow-hidden pointer-events-none">
+            <img alt="" className="absolute h-[1055.76%] left-[-67.21%] max-w-none top-[-396.92%] w-[423.91%]" src={imgImage120} />
+          </div>
+        </div>
+        <div className="absolute contents left-[-1667.83px] top-0" data-node-id="762:884" data-name="Mask group">
+          <div className="absolute bg-[rgba(63,63,63,0.57)] h-[999.68px] left-[-1667.83px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-size-[2189.203px_999.681px] top-0 w-[2189.202px]" data-node-id="762:886" style={{ maskImage: `url("${imgRectangle2}")` }} />
+        </div>
+      </div>
+      <div className="absolute contents left-[635.07px] top-[247.39px]" data-node-id="762:887">
+        <div className="absolute h-[923.444px] left-[635.07px] top-[247.39px] w-[2022.254px]" data-node-id="762:888" data-name="image-no-bg-HD (carve.photos) 3">
+          <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgImageNoBgHdCarvePhotos4} />
+        </div>
+        <div className="absolute contents left-[635.07px] top-[247.39px]" data-node-id="762:889" data-name="Mask group" />
+        <div className="absolute h-[81.893px] left-[779.98px] top-[570.66px] w-[69.908px]" data-node-id="762:891" data-name="image 109">
+          <div className="absolute inset-0 overflow-hidden pointer-events-none">
+            <img alt="" className="absolute h-[1899.36%] left-[-804.18%] max-w-none top-[-1248.08%] w-[1344.92%]" src={imgImage108} />
+          </div>
+        </div>
+        <div className="absolute h-[86.781px] left-[1380.5px] top-[568.22px] w-[67.506px]" data-node-id="762:892" data-name="image 103">
+          <div className="absolute inset-0 overflow-hidden pointer-events-none">
+            <img alt="" className="absolute h-[1847.57%] left-[-642.85%] max-w-none top-[-1063.87%] w-[1436.56%]" src={imgImage120} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute h-[133.257px] left-[954.32px] top-[568.22px] w-[304.361px]" data-node-id="762:897" data-name="image 110">
+        <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgImage110} />
+      </div>
+      <div className="absolute h-[132.264px] left-[1129.37px] top-[709.11px] w-[304.768px]" data-node-id="762:898" data-name="image 108">
+        <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgImage109} />
+      </div>
+    </div>
+  );
+}

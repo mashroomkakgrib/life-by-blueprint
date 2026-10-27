@@ -1,0 +1,20 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/20d59d0a-d231-4176-8f91-9b47d28a9d86";
+const imgImage148 = `${assetPathPrefix}/1eebe.png`;
+
+export default function Frame() {
+  return (
+    <div className="bg-[#3f3f3f] relative size-full" data-node-id="762:1256" data-name="Frame">
+      <div className="absolute h-[1015.875px] left-0 top-[-20.94px] w-[1512px]" data-node-id="762:1261" data-name="image 148">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage148} />
+      </div>
+      <div className="absolute bottom-[296.85px] flex h-[332.297px] items-center justify-center left-[383.32px] w-[745.352px]" data-node-id="762:1263">
+        <div className="-scale-y-100 flex-none">
+          <div className="h-[332.297px] relative w-[745.352px]" style={{ backgroundImage: "url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 745.35 332.3' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='1'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(14.09 -17.607 21.769 17.421 372.68 133.23)'><stop stop-color='rgba(63,63,63,1)' offset='0.13573'/><stop stop-color='rgba(63,63,63,0)' offset='0.8484'/></radialGradient></defs></svg>\")" }} />
+        </div>
+      </div>
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Menoe_Grotesque_Pro:Regular'] leading-[1.04] left-1/2 not-italic text-[#f3f3f3] text-[30px] text-center top-[calc(50%-46.5px)] tracking-[-0.33px] w-[701px]" data-node-id="762:1258">
+        Типовая квартира всегда индивидуальна! Ведь она становится такой в момент, когда в неё заселяются люди.
+      </p>
+    </div>
+  );
+}

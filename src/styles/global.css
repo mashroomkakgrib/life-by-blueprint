@@ -1,0 +1,8 @@
+/* Базовые цвета подтверждены Figma. Композиции секций ожидают реализации. */
+:root { --background: #3f3f3f; --foreground: #f3f3f3; color-scheme: dark; }
+* { box-sizing: border-box; }
+html { background: var(--background); color: var(--foreground); }
+body { margin: 0; }
+main { overflow: clip; }
+h1, h2, p { margin: 0; }
+img, svg { display: block; max-width: 100%; }
